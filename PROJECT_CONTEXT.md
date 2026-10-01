@@ -1,6 +1,6 @@
-# Project Context: Session Revocation / Dealer
+# Project Context: {{PROJECT_NAME}}
 
-Last reviewed: 2026-09-30
+Last reviewed: {{DATE}}
 
 ## Goal
 
@@ -27,5 +27,5 @@ Unknown
 
 ## Decisions
 
-- 2026-09-30 — Keep durable facts here and current progress in
+- {{DATE}} — Keep durable facts here and current progress in
   `PROJECT_STATUS.md`, so any agent can pick up the work.

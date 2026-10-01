@@ -1,6 +1,6 @@
-# Project Status: Session Revocation / Dealer
+# Project Status: {{PROJECT_NAME}}
 
-Last updated: 2026-09-30
+Last updated: {{DATE}}
 
 ## Now
 
@@ -20,4 +20,4 @@ Last updated: 2026-09-30
 
 ## Log
 
-- 2026-09-30 — Set up project memory files.
+- {{DATE}} — Set up project memory files.
